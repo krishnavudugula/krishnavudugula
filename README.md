@@ -1,81 +1,126 @@
-<!-- krishnavudugula/krishnavudugula — GitHub Profile README -->
-
-<h1 align="left">Hi, I'm Krishna Vudugula</h1>
-<p align="left">
-  Web Developer · Civic Tech Enthusiast · Urban Infrastructure Problem Solver
-</p>
-
-<p align="left">
-  I build software that addresses real-world problems — from navigating cities safely to making civic engagement accessible.<br>
-  My work sits at the intersection of <strong>web technology</strong>, <strong>geospatial systems</strong>, and <strong>public infrastructure</strong>.
-</p>
+<div align="left">
+  <h1>Hi there, I'm Krishna Vudugula 👋</h1>
+  <p>
+    <em>Engineering structured, user-friendly web solutions for real-world challenges.</em>
+  </p>
+</div>
 
 <br>
 
----
+## 👤 About Me
 
-### Tech Stack
+I am a student and dedicated Web Developer with a strong passion for building software that addresses civic, urban infrastructure, and community safety problems. I believe that the best code is not just functional, but highly readable, well-aligned, and cleanly architected.
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=ffffff)
-
-**Backend & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=ffffff)
-![Django](https://img.shields.io/badge/Django-333333?style=flat-square&logo=django&logoColor=ffffff)
-
-**Geospatial & Mapping**
-
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-333333?style=flat-square&logo=openstreetmap&logoColor=ffffff)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-333333?style=flat-square&logo=leaflet&logoColor=ffffff)
+* 🎓 **Current Focus:** Transitioning theoretical concepts into functional web platforms.
+* 💡 **Core Philosophy:** Minimalist design, professional architecture, and zero visual clutter.
+* 🌱 **Currently Exploring:** Advanced routing algorithms and mapping architectures.
+* 🎯 **Goal:** To deploy scalable civic-tech solutions at the city and state level.
 
 <br>
 
----
+## 🛠️ Technical Arsenal
 
-### Featured Projects
+To maintain a clean layout, my technical skills are categorized below. 
 
-| Project | Description | Stack | Repo |
-|---|---|---|---|
-| **IntelliRoute** | A safety-aware route recommendation system that prioritizes secure, real-world-optimized paths for urban travellers. | HTML · JS · Leaflet · OSM | [→ View](https://github.com/krishnavudugula/IntelliRoute-SmartRideBooking-) |
-| **CivicResponse** | A civic issue reporting platform enabling citizens to log, track, and escalate infrastructure problems in their communities. | CSS · HTML · JS | [→ View](https://github.com/krishnavudugula/CivicResponse) |
-| **My Portfolio** | Personal developer portfolio showcasing projects, skills, and work. | HTML · CSS | [→ View](https://github.com/krishnavudugula/My_Portfolio) |
+### Frontend Development
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
 
-<br>
+### Backend & Core Logic
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+</div>
 
----
-
-### GitHub Analytics
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=555555&border_color=e4e4e4&hide_border=false"
-    height="150"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&bg_color=ffffff&title_color=333333&text_color=555555&border_color=e4e4e4&hide_border=false"
-    height="150"
-    alt="Top Languages"
-  />
-</p>
+### Mapping & Infrastructure
+<div align="left">
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+</div>
 
 <br>
 
----
+## 🚀 Featured Engineering Projects
 
-### Connect
+<details>
+  <summary><b>🗺️ IntelliRoute (Smart Ride Booking & Safety System)</b> — <i>Click to expand</i></summary>
+  <br>
+  <blockquote>
+    A comprehensive, safety-based route recommendation system engineered to improve navigation and ride-booking safety for everyday users.
+  </blockquote>
+  
+  **The Problem:** Standard routing applications prioritize speed but often lack safety-based routing metrics for vulnerable users.
+  
+  **The Solution:** * Engineered a custom navigation logic utilizing Python and Django.
+  * Integrated OpenStreetMap and Leaflet for clean, responsive, and highly accurate geographical rendering.
+  * Focused on a strict, professional UI without bloated design elements.
+  
+  **Status:** Active Development.
+  <br><br>
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnavudugula-4a5568?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/krishnavudugula)
-[![Email](https://img.shields.io/badge/Email-reach%20out-4a5568?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:krishnavudugula@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-krishnavudugula-4a5568?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/krishnavudugula)
+<details>
+  <summary><b>🏛️ CivicResponse (Issue Reporting Platform)</b> — <i>Click to expand</i></summary>
+  <br>
+  <blockquote>
+    A polished frontend UI prototype for a civic engagement platform allowing citizens to effectively report local issues.
+  </blockquote>
+  
+  **Architecture Details:**
+  * Built with strict attention to alignment, professional typography, and whitespace.
+  * Utilizes HTML, CSS, and JavaScript to create a frictionless user reporting experience.
+  * Designed to eventually hook into a robust backend administrative dashboard.
+  <br><br>
+</details>
+
+<details>
+  <summary><b>📊 Administrative & Tracking Systems</b> — <i>Click to expand</i></summary>
+  <br>
+  
+  **1. Face Recognition Attendance**
+  * An automated tracking system designed to streamline institutional attendance management.
+  * Built using JavaScript and Python integration.
+
+  **2. Fee Management System**
+  * A structured administrative tool built to manage financial records and student fees efficiently.
+  * Ensures clean data representation and easy navigation.
+  <br><br>
+</details>
 
 <br>
 
----
+## 📊 Development Analytics
 
-<sub>Building with purpose · Open to collaboration · Always learning</sub>
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&theme=default&bg_color=ffffff&title_color=333333&text_color=555555&border_color=e4e4e4&hide_border=false" alt="Krishna's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=default&bg_color=ffffff&title_color=333333&text_color=555555&border_color=e4e4e4&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+Whether it is discussing architecture for civic tech, structural UI alignment, or backend Python logic, I am always open to professional conversations.
+
+<div align="left">
+  <a href="https://linkedin.com/in/krishnavudugula">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Send an Email" />
+  </a>
+</div>
+
+<br>
