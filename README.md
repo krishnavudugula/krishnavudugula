@@ -179,12 +179,12 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 ## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&theme=light&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnavudugula&theme=light&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&theme=light&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnavudugula&theme=light&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=light&hide_border=true&title_color=2563EB&text_color=333333" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=light&hide_border=true&title_color=2563EB&text_color=333333" width="60%" />
 </div>
 
 <br>
