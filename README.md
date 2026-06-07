@@ -22,7 +22,7 @@
 
 > *"I learn best by building, improving, and understanding how every part of a product fits together."*
 
-I am a Computer Science undergraduate (B.Tech, 2024–2028) at the **Balaji Institute of Technology and Science**, specializing in **Data Science & Algorithms**. What began as a mere curiosity about the web has rapidly evolved into a comprehensive skill set spanning full-stack development, system architecture, and artificial intelligence. 
+I am a Computer Science undergraduate (B.Tech, 2024–2028) at the **Balaji Institute of Technology and Science**, specializing in **Data Science**. What began as a mere curiosity about the web has rapidly evolved into a comprehensive skill set spanning full-stack development, system architecture, and artificial intelligence. 
 
 <details>
 <summary><b>✨ Click to read more about my philosophy & approach</b></summary>
