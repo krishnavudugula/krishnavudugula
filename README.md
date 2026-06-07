@@ -196,5 +196,5 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 
 <div align="center">
   <br>
-  <sub><i>Profile dynamically generated & maintained by code</i></sub>
+  <sub><i>Profile maintained by Krishna</i></sub>
 </div>
