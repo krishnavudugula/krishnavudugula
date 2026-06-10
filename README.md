@@ -87,7 +87,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
   <tr>
     <td width="50%" valign="top">
       <h3>🚙 <a href="https://github.com/krishnavudugula/IntelliRoute-SmartRideBooking-">IntelliRoute - SmartRideBooking</a></h3>
-      <p>A sophisticated ride-booking platform designed for optimal route matching and seamless user experience. Integrates advanced layout principles and interactive elements.</p>
+      <p>A sophisticated ride-booking platform designed for optimal route matching and seamless user experience. Integrates advanced layout principles and interactive elements. <a href="https://intelliroute-smart-ride-booking.onrender.com"><b>[Live Demo]</b></a></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -138,7 +138,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
     </td>
     <td width="50%" valign="top">
       <h3>📁 <a href="https://github.com/krishnavudugula/My_Portfolio">Personal Portfolio Architecture</a></h3>
-      <p>The codebase for my personal portfolio, utilizing responsive design patterns, optimal semantic markup, and custom CSS architectures. <a href="https://krishnavudugula.github.io/My_Portfolio/portfolio.html"><b>[Live Site]</b></a></p>
+      <p>The codebase for my personal portfolio, utilizing responsive design patterns, optimal semantic markup, and custom CSS architectures. <a href="https://krishnavudugula.github.io/My_Portfolio/portfolio.html"><b>[Live Demo]</b></a></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -169,6 +169,8 @@ A selection of my primary projects showcasing full-stack capabilities, system de
         <li><b>FrontEnd Web Designing</b> <br> <i>freeCodeCamp Certification</i></li>
         <br>
         <li><b>CRT - C Programming</b> <br> <i>Core System Programming</i></li>
+        <br>
+        <li><b>Machine Learning & Data Science Virtual Internship</li>
       </ul>
     </td>
   </tr>
