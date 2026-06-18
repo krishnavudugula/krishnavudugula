@@ -390,15 +390,18 @@ A selection of my primary projects showcasing full-stack capabilities, system de
     </tr>
   </table>
 </div>
-
+</details>
 
 <br>
-<br>
-<div align="center"> 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <br>
+  
+  ## 🤝 Let's Connect & Collaborate
   
   <sup><i>Open to collaborations, open-source contributions, and exciting project ideas</i></sup>
   
-  <br>
+  <br><br>
 </div>
 
 <div align="center">
@@ -432,6 +435,31 @@ A selection of my primary projects showcasing full-stack capabilities, system de
   </table>
 </div>
 
+<br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION 19 — ANIMATED FOOTER
+     Custom SVG footer with wave animation, fade-in text, pulsing accents
+
+
+<br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION 20 — ANIMATED FOOTER WAVE (Capsule Render)
+     Closing waving animation matching header
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=120&section=footer" width="100%" alt="Footer Wave" />
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     SECTION 21 — PROFILE METADATA
+     Invisible metadata for SEO and profile completeness
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <sub>
@@ -442,3 +470,4 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 </div>
 
 <br>
+
