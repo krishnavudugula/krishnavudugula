@@ -239,12 +239,12 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 |:-:|:---|:---|:---|
 | 01 | **Machine Learning Statistical Foundations** | Wolfram Research | `AI / ML` |
 | 02 | **AI Foundations: Machine Learning** | Professional Certification | `AI / ML` |
-| 03 | **CodSoft AI Internship** | CodSoft | `Industry Experience` |
-| 04 | **Python — FullStack Virtual Internship** | Virtual Internship Program | `Full-Stack Dev` |
+| 03 | **CodSoft AI Internship** | CodSoft | `AI` |
+| 04 | **Python - FullStack Virtual Internship** | Virtual Internship Program | `Full-Stack Dev` |
 | 05 | **FrontEnd Web Designing** | freeCodeCamp | `Frontend Dev` |
-| 06 | **CRT — C Programming** | Campus Recruitment Training | `Systems Programming` |
-| 07 | **ML & Data Science Virtual Internship** | Virtual Internship Program | `Data Science` |
-
+| 06 | **CRT - C Programming** | Campus Recruitment Training | `Systems Programming` |
+| 07 | **ML & Data Science Virtual Internship** | Virtual Internship Program | `ML & DS` |
+| 08 | **Code Unnati** - **Edunet Foundation** | Foundation Training Course | ~ |
 </div>
 
 <br>
