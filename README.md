@@ -460,7 +460,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 
 <div align="center">
   <sub>
-    <b>Profile architected & maintained by <a href="https://github.com/krishnavudugula">Krishna Vudugula </a></b>
+    <b>Profile architected & maintained by <a href="https://www.linkedin.com/in/krishna-vudugula/">Krishna Vudugula </a></b>
     <br>
     <i>Last updated: June 2026 </i> 
   </sub>
