@@ -8,7 +8,11 @@
   <a href="https://krishnavudugula.github.io/My_Portfolio/portfolio.html"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/krishnavudugula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<br>
+<br> 
+<img src="https://komarev.com/ghpvc/?username=krishnavudugula&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/krishnavudugula?label=Followers&style=flat-square&color=2563EB&labelColor=f0f4ff" alt="Followers" />
+  &nbsp;&nbsp;
+
 </div>
   <br>
 
@@ -458,7 +462,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
   <sub>
     <b>Profile architected & maintained by <a href="https://github.com/krishnavudugula">Krishna Vudugula </a></b>
     <br>
-    <i>Last updated: June 2026 </i>
+    <i>Last updated: June 2026 </i> 
   </sub>
 </div>
 
