@@ -9,13 +9,6 @@
   <a href="https://github.com/krishnavudugula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br>
-  
-  <!-- Profile Metrics Badges -->
-  <img src="https://komarev.com/ghpvc/?username=krishnavudugula&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/krishnavudugula?label=Followers&style=flat-square&color=2563EB&labelColor=f0f4ff" alt="Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/krishnavudugula?label=Total+Stars&style=flat-square&color=2563EB&labelColor=f0f4ff&affiliations=OWNER" alt="Stars" />
 </div>
   <br>
 
@@ -463,9 +456,9 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 
 <div align="center">
   <sub>
-    <b>Profile architected & maintained with ❤️ by <a href="https://github.com/krishnavudugula">Krishna Vudugula</a></b>
+    <b>Profile architected & maintained by <a href="https://github.com/krishnavudugula">Krishna Vudugula </a></b>
     <br>
-    <i>Last updated: June 2026 • Visitors: <img src="https://komarev.com/ghpvc/?username=krishnavudugula&color=2563EB&style=flat&label=" alt="Views" height="14" /></i>
+    <i>Last updated: June 2026 </i>
   </sub>
 </div>
 
