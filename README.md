@@ -33,7 +33,7 @@
 I am a Computer Science undergraduate (B.Tech, 2024–2028) at the **Balaji Institute of Technology and Science**, specializing in **Data Science**. What began as a mere curiosity about the web has rapidly evolved into a comprehensive skill set spanning **full-stack development**, **system architecture**, and **artificial intelligence**. 
 
 <details>
-<summary><b>✨ Click to read more about my philosophy & approach</b></summary>
+<summary><b>✨ Click to read more about my philosophy & approach</b></summary> <br>
 I am deeply focused on <b>problem-solving and practical software engineering</b>. Whether it's designing a clean, intuitive user interface or structuring complex database logic, my goal is always to deliver robust software that solves real-world problems. My academic foundation in C, Java, and Python is complemented by hands-on experience in modern frameworks like Flask and FastAPI.
 <br><br>
 Beyond writing code, I value <b>Analytical & Strategic Thinking, Collaborative Teamwork, and Effective Communication</b>, ensuring that technical solutions align perfectly with user needs and project goals.
