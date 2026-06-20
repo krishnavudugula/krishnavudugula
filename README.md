@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=220&section=header&text=Krishna%20Vudugula&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=56&descAlign=50&descSize=16&fontFamily=Inter" width="100%" alt="Krishna Vudugula — Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=220&section=header&text=Krishna%20Vudugula&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI-ML%20Enthusiast&descAlignY=56&descAlign=50&descSize=16&fontFamily=Inter" width="100%" alt="Krishna Vudugula — Header Banner" />
 </div>
 
 <div align="center">
