@@ -405,7 +405,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
   <table>
     <tr>
       <td align="center" width="25%">
-        <a href="https://linkedin.com/in/krishna-vudugula-88a2b2342">
+        <a href="https://linkedin.com/in/krishna-vudugula">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>
           <sub><b>Professional Network</b></sub>
         </a>
