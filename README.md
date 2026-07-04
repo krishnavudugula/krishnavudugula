@@ -197,6 +197,23 @@ A selection of my primary projects showcasing full-stack capabilities, system de
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/krishnavudugula/Chess_Analyser">!Blundrr - Free Chess Analyser</a></h3>
+      <p>Professional chess analysis made accessible. Unlimited engine insights, move evaluation, and performance tracking at no cost.
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😇 <a href="https://github.com/krishnavudugula/TatTvam">TatTvam</a></h3>
+      <p>AI-powered Sanātana Dharma platform with authentic scriptures, personalized spiritual guidance, interactive learning, and philosophy exploration.<p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      </p>
+    </td>
+  </tr>
 </table>
 <br>
 <div align="center">
