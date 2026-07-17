@@ -251,7 +251,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 
 | # | 🏅 Certification | 🏢 Issuing Organization | 📂 Domain |
 |:-:|:---|:---|:---|
-| 01 | **Machine Learning Statistical Foundations** | Wolfram Research | `AI / ML` |
+| 01 | **Machine Learning Statistical Foundations** | Wolfram Research | `AI - ML` |
 | 02 | **AI Foundations: Machine Learning** | Professional Certification | `AI / ML` |
 | 03 | **CodSoft AI Internship** | CodSoft | `AI` |
 | 04 | **Python - FullStack Virtual Internship** | Virtual Internship Program | `Full-Stack Dev` |
@@ -279,13 +279,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 </div>
 
 <br>
-
-
-<!-- ─────────────────────────────────────────────────────────────────────────
-     14B — Stats Overview + Streak Stats (Side by Side)
-     Dark/Light theme aware with <picture> elements
-     ───────────────────────────────────────────────────────────────────────── -->
-
 <div align="center">
   <table>
     <tr>
@@ -308,13 +301,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 </div>
 
 <br>
-
-
-<!-- ─────────────────────────────────────────────────────────────────────────
-     14C — Top Languages (Multiple Layouts)
-     Donut chart + Compact view side by side
-     ───────────────────────────────────────────────────────────────────────── -->
-
 <div align="center">
   <table>
     <tr>
@@ -337,13 +323,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 </div>
 
 <br>
-
-
-<!-- ─────────────────────────────────────────────────────────────────────────
-     14D — Contribution Activity Graph
-     Full-width animated contribution graph
-     ───────────────────────────────────────────────────────────────────────── -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=krishnavudugula&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=2563EB&point=3B82F6&area_color=2563EB" />
@@ -358,8 +337,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 <br>
 
 <div align="center">
-  
-  <!-- Full Width Profile Details Card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnavudugula&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnavudugula&theme=default" />
@@ -367,8 +344,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
   </picture>
   
   <br><br>
-  
-  <!-- Two-Column Summary Cards -->
   <table>
     <tr>
       <td width="50%">
@@ -450,31 +425,9 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 </div>
 
 <br>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 19 — ANIMATED FOOTER
-     Custom SVG footer with wave animation, fade-in text, pulsing accents
-
-
-<br>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 20 — ANIMATED FOOTER WAVE (Capsule Render)
-     Closing waving animation matching header
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 21 — PROFILE METADATA
-     Invisible metadata for SEO and profile completeness
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <sub>
     <b>Profile architected & maintained by <a href="https://www.linkedin.com/in/krishna-vudugula/">Krishna Vudugula </a></b>
