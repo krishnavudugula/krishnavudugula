@@ -252,7 +252,7 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 | # | 🏅 Certification | 🏢 Issuing Organization | 📂 Domain |
 |:-:|:---|:---|:---|
 | 01 | **Machine Learning Statistical Foundations** | Wolfram Research | `AI - ML` |
-| 02 | **AI Foundations: Machine Learning** | Professional Certification | `AI / ML` |
+| 02 | **AI Foundations: Machine Learning** | Professional Certification | `AI - ML` |
 | 03 | **CodSoft AI Internship** | CodSoft | `AI` |
 | 04 | **Python - FullStack Virtual Internship** | Virtual Internship Program | `Full-Stack Dev` |
 | 05 | **FrontEnd Web Designing** | freeCodeCamp | `Frontend Dev` |
