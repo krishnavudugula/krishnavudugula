@@ -274,6 +274,15 @@ A selection of my primary projects showcasing full-stack capabilities, system de
   ## 📈 GitHub Analytics & Activity
   
   <sup><i>Real-time statistics and contribution patterns, auto-updated from GitHub API</i></sup>
+
+  <!-- GitHub Stats card -->
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=krishnavudugula&show_icons=true&theme=default&hide_border=true&border_radius=12&title_color=2563EB&icon_color=2563EB&text_color=333333&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&rank_icon=github)
+
+<!-- Top Languages — Donut -->
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=krishnavudugula&layout=donut&theme=default&hide_border=true&border_radius=12&title_color=2563EB&text_color=333333&langs_count=8)
+
+<!-- Top Languages — Compact -->
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=default&hide_border=true&border_radius=12&title_color=2563EB&text_color=333333&langs_count=8)
   
   <br>
 </div>
@@ -282,13 +291,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&rank_icon=github" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&theme=default&hide_border=true&border_radius=12&title_color=2563EB&icon_color=2563EB&text_color=333333&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&rank_icon=github" />
-          <img src="https://github-readme-stats.vercel.app/api?username=krishnavudugula&show_icons=true&theme=default&hide_border=true&border_radius=12&title_color=2563EB&icon_color=2563EB&text_color=333333&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width="100%" />
-        </picture>
-      </td>
       <td width="50%">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=krishnavudugula&theme=github-dark-blue&hide_border=true&border_radius=12" />
@@ -301,36 +303,6 @@ A selection of my primary projects showcasing full-stack capabilities, system de
 </div>
 
 <br>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=donut&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=donut&theme=default&hide_border=true&border_radius=12&title_color=2563EB&text_color=333333&langs_count=8" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=donut&theme=default&hide_border=true&border_radius=12&title_color=2563EB&text_color=333333&langs_count=8" alt="Top Languages — Donut" width="100%" />
-        </picture>
-      </td>
-      <td width="50%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=default&hide_border=true&border_radius=12&title_color=2563EB&text_color=333333&langs_count=8" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavudugula&layout=compact&theme=default&hide_border=true&border_radius=12&title_color=2563EB&text_color=333333&langs_count=8" alt="Top Languages — Compact" width="100%" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=krishnavudugula&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=2563EB&point=3B82F6&area_color=2563EB" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=krishnavudugula&theme=github-compact&hide_border=true&area=true&bg_color=ffffff&color=333333&line=2563EB&point=3B82F6&area_color=DBEAFE" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnavudugula&theme=github-compact&hide_border=true&area=true&bg_color=ffffff&color=333333&line=2563EB&point=3B82F6&area_color=DBEAFE" alt="GitHub Activity Graph" width="98%" />
-  </picture>
-</div>
-
 <br>
 <details>
 <summary>&nbsp;&nbsp;<b>📊 View Detailed Profile Summary Cards</b></summary>
